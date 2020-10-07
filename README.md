@@ -5,3 +5,5 @@ This is just a EDA for a Superstores in US. Here i have predicted the optimum lo
 Here I have also done analysis on which product to sell and even calculated the profitable buyers location.
 
 As per analysis, increasing the discount in Western region can increase the sales and can also increase profit.
+
+I have also provided the graphs in .png extension so that you can particularly analyse a particular feature.
